@@ -1,5 +1,0 @@
-biopython==1.73
-certifi==2019.3.9
-mkl-fft==1.0.12
-mkl-random==1.0.2
-numpy==1.16.3
